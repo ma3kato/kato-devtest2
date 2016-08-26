@@ -1,0 +1,3 @@
+[2016/08/26 12:17:49]:Start Cardion.spec DocumentCheck -----
+解析対象ファイル，結果格納ファイルの両方を指定してください．
+[2016/08/26 12:17:49]:Finish Cardion.spec DocumentCheck -----

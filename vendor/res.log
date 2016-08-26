@@ -1,0 +1,4 @@
+infile  /Users/kato/.atom/packages/cardion-spec/vendor/tmp/nobuzzinputdata.txt
+outfile1  /Users/kato/.atom/packages/cardion-spec/vendor/tmp/mecabnobuzzinputdata.txt
+outfile2  /Users/kato/.atom/packages/cardion-spec/vendor/tmp/cabochanobuzzinputdata.txt
+/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/kato/bin:/usr/local/bin:/Users/kato/local/bin:/usr/bin

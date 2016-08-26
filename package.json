@@ -1,0 +1,21 @@
+{
+  "name": "kato-devtest2",
+  "main": "./lib/kato-devtest2",
+  "version": "0.0.0",
+  "description": "A Test package of develop mode package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "kato-devtest2:countline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ma3kato/kato-devtest2.git"
+  } ,
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
