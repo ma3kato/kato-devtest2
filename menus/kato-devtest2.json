@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle kato-devtest2",
-        "command": "kato-devtest2:toggle"
+        "label": "Countline kato-devtest2",
+        "command": "kato-devtest2:countline"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "kato-devtest2",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "kato-devtest2:toggle"
+              "label": "countline",
+              "command": "kato-devtest2:countline"
             }
           ]
         }
